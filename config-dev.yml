@@ -1,1 +1,2 @@
-x
+config:
+  info: "这里是dev"
